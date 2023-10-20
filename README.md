@@ -30,6 +30,6 @@ y seguir aprendiendo nuevas tecnologías para mejorar mis habilidades.
 
 ## Estadísticas de GitHub
 
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=parrAaa29&show_icons=true&theme=dark)](https://github.com/parrAaa29/github-readme-stats)
 
 ¡Gracias por visitar mi perfil! 😄
