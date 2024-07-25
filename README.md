@@ -15,9 +15,9 @@ y seguir aprendiendo nuevas tecnologías para mejorar mis habilidades.
 
 ## Tecnologías
 
-- **Front-end**: HTML, CSS, JavaScript, React
+- **Front-end**: Next.js, React, HTML, CSS, JavaScript
 - **Back-end**: Node.js, Java
-- **Bases de datos**: MySQL
+- **Bases de datos**: MySQL, Sql Server
 - **Herramientas de desarrollo**: VS Code, IntelliJ IDEA, Git
 
 ## Proyectos Destacados
